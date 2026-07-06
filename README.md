@@ -104,7 +104,6 @@ Berdasarkan hasil komparasi di atas, algoritma **Support Vector Machine (SVM) de
 ## 🛠️ Panduan Eksekusi Program
 Bagi penguji yang ingin mereplikasi kodingan eksperimen Kelompok 17 di komputer lokal, silakan ikuti instruksi berikut:
 
-### 1. Unduh Salinan Repositori Proyek
 ```bash
 git clone [https://github.com/MuhammadYusufFaturahman/UAS-KecerdasanBuatan-Kelompok-17.git](https://github.com/MuhammadYusufFaturahman/UAS-KecerdasanBuatan-Kelompok-17.git)
 cd UAS-KecerdasanBuatan-Kelompok-17
