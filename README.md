@@ -30,7 +30,7 @@ Repositori ini disusun sebagai pemenuhan tugas **Ujian Akhir Semester (UAS) Mata
 * **Anggota 2:** Cecep Faisal Ahmad (NIM: 2406033)
 * **Kelas:** Informatika A
 * **Program Studi:** Teknik Informatika
-* **Instansi:** [Isi Nama Kampus Kamu, misal: Universitas Garut]
+* **Instansi:** [Institut Teknologi garut]
 * **Dosen Pengampu:** Leni Fitriani, ST. M.Kom.
 
 ---
@@ -64,22 +64,5 @@ Dataset yang digunakan dalam proyek ini adalah data publik yang telah dianonimka
 
 ---
 
-## 📁 Struktur Repositori
-Susunan direktori di dalam proyek ini diatur secara modular agar mempermudah proses dokumentasi dan pemeriksaan kode program:
 
-```text
-UAS-KecerdasanBuatan-Kelompok-17/
-│
-├── data/
-│   ├── dataset/
-│   │   ├── baca-me.md
-│   │   └── Social_Network_Ads.csv          # File dataset mentah dari Kaggle
-│   └── jurnal/
-│       ├── baca-me.md
-│       ├── Ramadhan_2023_KNN.pdf           # File PDF Jurnal Referensi 1
-│       ├── Pratama_2023_RandomForest.pdf   # File PDF Jurnal Referensi 2
-│       └── [PDF Jurnal Lainnya]            # PDF Jurnal pendukung berformat APA
-│
-├── Laporan_uas.md                          # Laporan tertulis akademik format Markdown
-├── uas_model.ipynb                         # Jupyter Notebook kode eksperimen Python
 └── README.md                               # Dokumentasi utama repositori (File ini)
