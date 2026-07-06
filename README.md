@@ -9,22 +9,6 @@
 
 Repositori ini disusun sebagai pemenuhan tugas **Ujian Akhir Semester (UAS) Mata Kuliah Kecerdasan Buatan / Artificial Intelligence**. Proyek ini mendemonstrasikan proses ujung-ke-ujung (*end-to-end*) dari implementasi *Machine Learning* untuk menyelesaikan permasalahan klasifikasi biner pada ranah pemasaran digital (*digital marketing*), yaitu memprediksi probabilitas seorang pengguna untuk membeli produk (*purchased*) setelah terpapar iklan media sosial berdasarkan atribut demografisnya.
 
----
-
-## 📑 Daftar Isi
-1. [Identitas Pengembang](#-identitas-pengembang-kelompok-17)
-2. [Alat dan Teknologi](#️-alat-dan-teknologi-tech-stack)
-3. [Latar Belakang & Pemahaman Bisnis](#-latar-belakang--pemahaman-bisnis-business-understanding)
-4. [Pemahaman Data](#-pemahaman-data-data-understanding)
-5. [Struktur Repositori](#-struktur-repositori)
-6. [Metodologi Proyek & Alur Kerja](#-metodologi-proyek--alur-kerja-machine-learning-pipeline)
-7. [Hasil dan Insight Utama](#-hasil-dan-insight-utama)
-8. [Panduan Eksekusi Program](#-panduan-eksekusi-program)
-9. [Rencana Pengembangan](#-rencana-pengembangan-future-work)
-10. [Referensi Ilmiah (APA Style)](#-referensi-ilmiah-apa-style)
-
----
-
 ## 📌 Identitas Pengembang Kelompok 17
 * **Anggota 1:** Muhammad Yusuf Faturahman (NIM: 2406002)
 * **Anggota 2:** Cecep Faisal Ahmad (NIM: 2406033)
