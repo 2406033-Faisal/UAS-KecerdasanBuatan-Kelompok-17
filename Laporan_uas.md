@@ -2,7 +2,7 @@
 
 ## 1. Judul Proyek
 * **Judul:** Prediksi Konversi Pembelian Pengunjung Website E-Commerce Menggunakan Algoritma K-Nearest Neighbors (KNN) dan Support Vector Machine (SVM) Berbasis SMOTE
-* **Nama Kelompok:** [Isi Nama Kamu & Teman Kelompok, Maksimal 2 Orang]
+* **Nama Kelompok:** [Cecep faisal Ahmad 2406033 & Muhammad Yusuf Paturahman 2406002]
 * **Domain Proyek:** E-Commerce / Bisnis Digital
 
 ---
